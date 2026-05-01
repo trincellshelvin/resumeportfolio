@@ -48,3 +48,4 @@ Add project images and videos in the `public/` directory and update the paths in
 ## Deploy
 
 Deploy on Vercel or any Next.js compatible platform.
+# resumeportfolio
